@@ -1,0 +1,20 @@
+1,¿Cuál es la capital de Francia?,Londres,Madrid,Berlin,Paris
+2,¿Cuánto es 2 + 2?,3,5,6,4
+3,¿Color del caballo blanco de Santiago?,Negro,Café,Gris,Blanco
+4,¿Elemento químico O?,Oro,Osmio,Olivino,Oxigeno
+5,¿Planeta más grande del sistema solar?,Marte,Tierra,Venus,Jupiter
+6,¿Autor del Quijote?,Lope de Vega,Góngora,Quevedo,Cervantes
+7,¿Moneda de Reino Unido?,Euro,Dólar,Yen,Libra
+8,¿Continente de Egipto?,Asia,Europa,Oceanía,Africa
+9,¿Idioma oficial de Brasil?,Español,Inglés,Francés,Portugués
+10,¿Animal más rápido?,León,Tigre,Elefante,Guepardo
+11,¿Metal líquido a temp ambiente?,Oro,Plata,Hierro,Mercurio
+12,¿Día de la Independencia de CR?,15 Octubre,15 Agosto,11 Abril,15 Setiembre
+13,¿Pintor de la Mona Lisa?,Picasso,Van Gogh,Dali,Da Vinci
+14,¿Nota musical después de Do?,Mi,Fa,Sol,Re
+15,¿Año de llegada a la Luna?,1965,1970,1972,1969
+16,¿Símbolo del agua?,HO,OH,H2,H2O
+17,¿Capital de Japón?,Kioto,Osaka,Hiroshima,Tokio
+18,¿Rey de la selva?,Tigre,Oso,Lobo,León
+19,¿Instrumento de 88 teclas?,Guitarra,Violín,Flauta,Piano
+20,¿Colores de la bandera de CR?,Azul/Blanco,Rojo/Azul,Blanco/Rojo,Azul/Blanco/Rojo

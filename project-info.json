@@ -1,0 +1,30 @@
+{
+    "project": "Quién Quiere Ser Millonario CLI",
+    "tech": [
+        "Python",
+        "CLI",
+        "Standard I/O"
+    ],
+    "features": [
+        "Authentic Trivia Game Loop",
+        "Lifeline System Implementation (50/50, Call, Audience)",
+        "Dynamic Question Database",
+        "Score Tracking and Leaderboard",
+        "ANSI Console Visuals"
+    ],
+    "stack": {
+        "language": "Python 3",
+        "framework": "Pure Console App",
+        "tools": [
+            "sys",
+            "random",
+            "Git"
+        ],
+        "database": "Local Question Set (.txt/.json)"
+    },
+    "screenshots": [],
+    "description": {
+        "es": "Aplicación CLI que simula el juego Quién Quiere Ser Millonario, con un enfoque en la lógica de juego pura y experiencia de usuario fluida en terminal.",
+        "en": "CLI application simulating the game Who Wants to Be a Millionaire, focusing on pure game logic and a smooth terminal user experience."
+    }
+}
