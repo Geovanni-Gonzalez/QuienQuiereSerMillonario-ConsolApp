@@ -1,30 +1,54 @@
 {
-    "project": "Quién Quiere Ser Millonario CLI",
-    "tech": [
-        "Python",
-        "CLI",
-        "Standard I/O"
-    ],
-    "features": [
-        "Authentic Trivia Game Loop",
-        "Lifeline System Implementation (50/50, Call, Audience)",
-        "Dynamic Question Database",
-        "Score Tracking and Leaderboard",
-        "ANSI Console Visuals"
-    ],
-    "stack": {
-        "language": "Python 3",
-        "framework": "Pure Console App",
-        "tools": [
-            "sys",
-            "random",
-            "Git"
+    "en": {
+        "tech": [
+            "Python 3",
+            "CLI Architecture",
+            "Game Logic Design",
+            "State Management"
         ],
-        "database": "Local Question Set (.txt/.json)"
+        "features": [
+            "Authentic trivia game loop with tiered difficulty",
+            "Full Lifeline System (50:50, Phone-a-Friend, Ask the Audience)",
+            "Dynamic question bank with random selection",
+            "Progressive prize ladder and score persistence",
+            "ANSI-enhanced console UI for clear feedback"
+        ],
+        "stack": {
+            "language": "Python 3",
+            "framework": "Native CLI App",
+            "tools": [
+                "Random Engine",
+                "OS Integration"
+            ],
+            "database": "Structured Question Sets (.json)"
+        },
+        "screenshots": [],
+        "description": "A meticulous recreation of the legendary TV quiz show within a terminal environment. The application implements the full high-stakes game cycle, including a tiered difficulty progression and the iconic three-lifeline system. Beneath its ANSI-styled interface lies a robust state machine that tracks player progress and ensures randomized yet balanced question distribution. It emphasizes error handling and clean CLI design, delivering a polished and nostalgic user experience using native Python execution."
     },
-    "screenshots": [],
-    "description": {
-        "es": "Aplicación CLI que simula el juego Quién Quiere Ser Millonario, con un enfoque en la lógica de juego pura y experiencia de usuario fluida en terminal.",
-        "en": "CLI application simulating the game Who Wants to Be a Millionaire, focusing on pure game logic and a smooth terminal user experience."
+    "es": {
+        "tech": [
+            "Python 3",
+            "Arquitectura CLI",
+            "Diseño de Lógica de Juego",
+            "Gestión de Estados"
+        ],
+        "features": [
+            "Ciclo de juego de trivia auténtico con dificultad escalonada",
+            "Sistema completo de comodines (50:50, Llamada, Público)",
+            "Banco dinámico de preguntas con selección aleatoria",
+            "Escalera de premios progresiva y persistencia de puntajes",
+            "Interfaz CLI mejorada con ANSI para retroalimentación clara"
+        ],
+        "stack": {
+            "language": "Python 3",
+            "framework": "Aplicación CLI Nativa",
+            "tools": [
+                "Motor de Aleatoriedad",
+                "Integración con SO"
+            ],
+            "database": "Conjuntos de Preguntas Estructurados (.json)"
+        },
+        "screenshots": [],
+        "description": "Una recreación meticulosa del legendario programa de televisión dentro de un entorno de terminal. La aplicación implementa el ciclo completo del juego, incluyendo una progresión de dificultad escalonada y el icónico sistema de tres comodines. Bajo su interfaz estilizada con ANSI reside una robusta máquina de estados que rastrea el progreso del jugador y garantiza una distribución de preguntas aleatoria pero equilibrada. Ofrece una experiencia pulida y nostálgica utilizando Python puro."
     }
 }
