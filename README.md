@@ -1,5 +1,7 @@
 ﻿# Quien Quiere Ser Millonario ConsolApp
 
+[![CI](https://github.com/Geovanni-Gonzalez/QuienQuiereSerMillonario-ConsolApp/actions/workflows/ci.yml/badge.svg)](https://github.com/Geovanni-Gonzalez/QuienQuiereSerMillonario-ConsolApp/actions/workflows/ci.yml)
+
 ## Descripción
 Juego de trivia estilo concurso en Python para consola con preguntas, acceso administrativo, historial e indice de partidas.
 
