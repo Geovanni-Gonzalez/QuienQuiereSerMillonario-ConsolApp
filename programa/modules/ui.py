@@ -25,7 +25,7 @@ def intro_animation():
     clear_screen()
     
     # ASCII ART
-    logo = f"""
+    logo = fr"""
     {Colors.YELLOW}
        $$$$$$\  $$$$$$$\  $$$$$$$\  
       $$  __$$\ $$  __$$\ $$  __$$\ 
